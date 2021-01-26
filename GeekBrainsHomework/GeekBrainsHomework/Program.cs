@@ -10,6 +10,10 @@ namespace GeekBrainsHomework
     {
         static void Main(string[] args)
         {
+            void Анкета()
+            {
+                var weight = Console.ReadLine("Введите вес")
+            }
         }
     }
 }
