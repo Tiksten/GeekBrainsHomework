@@ -1,0 +1,7 @@
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\GeekBrainsHomework\GeekBrainsHomework\bin\Debug\GeekBrainsHomework.exe.config
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\GeekBrainsHomework\GeekBrainsHomework\bin\Debug\GeekBrainsHomework.exe
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\GeekBrainsHomework\GeekBrainsHomework\bin\Debug\GeekBrainsHomework.pdb
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\GeekBrainsHomework\GeekBrainsHomework\obj\Debug\GeekBrainsHomework.csproj.CoreCompileInputs.cache
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\GeekBrainsHomework\GeekBrainsHomework\obj\Debug\GeekBrainsHomework.exe
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\GeekBrainsHomework\GeekBrainsHomework\obj\Debug\GeekBrainsHomework.pdb
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\GeekBrainsHomework\GeekBrainsHomework\obj\Debug\GeekBrainsHomework.csprojAssemblyReference.cache
