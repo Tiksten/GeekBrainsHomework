@@ -1,0 +1,7 @@
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\Lesson3\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\Lesson3\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\Lesson3\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
+C:\Users\tikst\Documents\GitHub\GeekBrainsHomework\Lesson3\Lesson3\Lesson3\obj\Debug\Lesson3.csprojAssemblyReference.cache
